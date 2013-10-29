@@ -24,6 +24,7 @@ public class MainActivity extends FragmentActivity {
 		setContentView(R.layout.activity_main);
 		Log.i("Activity", "Loaded");
 		Log.i("Activity", "Loaded");
+		Log.i("Activity", "Loaded Branch 2");
 		
 	}
 	

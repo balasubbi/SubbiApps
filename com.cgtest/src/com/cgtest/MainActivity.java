@@ -1,6 +1,6 @@
 package com.cgtest;
 
-import com.google.android.gms.maps.GoogleMap;
+
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -10,7 +10,7 @@ import android.view.Menu;
 
 public class MainActivity extends FragmentActivity {
 
-	GoogleMap map;
+	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
